@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Text Wizard Desgin Versions/Text Wizard Design/src/guidelines/Guidelines.md",
+                "file": "Docs/ChatGPT_INSTRUCTIONS.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guidelines"
+              "title": "ChatGPT_INSTRUCTIONS"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Text Wizard Desgin Versions/Text Wizard Design/src/guidelines/Guidelines.md",
+                "file": "Docs/ChatGPT_INSTRUCTIONS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Guidelines"
+              "title": "Структура ChatGPT_INSTRUCTIONS"
             }
           },
           {
@@ -196,8 +196,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a9f95ee4f874082b",
+  "active": "8ec20f9f588204c1",
   "lastOpenFiles": [
+    "TechSpec/Без названия.md",
+    "Docs/ChatGPT_INSTRUCTIONS.md",
+    "TechSpec/Text Wizard — Итоговый функционал приложения.md",
+    "Text Wizard Desgin Versions/Text Wizard Design/src/guidelines/Guidelines.md",
     "FigmaMake1.zip",
     "Docs/Promt Test 1.md",
     "Docs",
@@ -211,8 +215,6 @@
     "Text Wizard Desgin Versions/Text Wizard Design/src/utils/textStats.ts",
     "Text Wizard Desgin Versions/Text Wizard Design/src/utils/textProcessing.ts",
     "Text Wizard Desgin Versions/Text Wizard Design/src/utils/history.ts",
-    "Text Wizard Desgin Versions/Text Wizard Design/src/utils",
-    "Text Wizard Desgin Versions/Text Wizard Design/src/guidelines/Guidelines.md",
     "Text Wizard Desgin Versions/Text Wizard Design/README.md",
     "Text Wizard Desgin Versions/Text Wizard Design 1st/src/guidelines/Guidelines.md",
     "TechSpec/Final_TechSpec_TextProcessor_PromptEditor.md",
