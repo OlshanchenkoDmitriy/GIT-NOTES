@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TechSpec_TextProcessor_PromptEditor.md",
+                "file": "Text Wizard Desgin Versions/Text Wizard Design/src/guidelines/Guidelines.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TechSpec_TextProcessor_PromptEditor"
+              "title": "Guidelines"
             }
           },
           {
@@ -34,51 +34,8 @@
               "icon": "lucide-file",
               "title": "TechSpec_TextProcessor_PromptEditor"
             }
-          },
-          {
-            "id": "7ecfb25e2a09ffec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TechSpec/TechSpec_TextProcessor_PromptEditor (1).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TechSpec_TextProcessor_PromptEditor (1)"
-            }
-          },
-          {
-            "id": "6c92b11f17f84c4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TechSpec/TechSpec_TextProcessor_PromptEditor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TechSpec_TextProcessor_PromptEditor"
-            }
-          },
-          {
-            "id": "4daa8f945d80d6ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Инструмент пакетной обработки текста/src/Attributions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Attributions"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +55,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -135,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 313.5
   },
   "right": {
     "id": "b7757f30c618b916",
@@ -199,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Инструмент пакетной обработки текста/src/Attributions.md",
+                "file": "Text Wizard Desgin Versions/Text Wizard Design/src/guidelines/Guidelines.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Attributions"
+              "title": "Структура Guidelines"
             }
           },
           {
@@ -234,21 +191,45 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "df6cb621f92efe34",
+  "active": "8ec20f9f588204c1",
   "lastOpenFiles": [
-    "Инструмент пакетной обработки текста/README.md",
-    "Promt Test 1.md",
+    "Docs/Promt Test 1.md",
+    "Docs",
+    "Figma Prototypes/First Proto.md",
+    "Text Wizard Desgin Versions/Text Wizard Design/src/components/TextDataPanel.tsx",
+    "Text Wizard Desgin Versions/Text Wizard Design/src/components/BottomActionBar.tsx",
+    "Text Wizard Desgin Versions/Text Wizard Design/src/components/Toast.tsx",
+    "Text Wizard Desgin Versions/Text Wizard Design/src/Attributions.md",
+    "Text Wizard Desgin Versions/Text Wizard Design/src/components/PresetManager.tsx",
+    "Text Wizard Desgin Versions/Text Wizard Design/src/components/OperationItem.tsx",
+    "Text Wizard Desgin Versions/Text Wizard Design/src/utils/textStats.ts",
+    "Text Wizard Desgin Versions/Text Wizard Design/src/utils/textProcessing.ts",
+    "Text Wizard Desgin Versions/Text Wizard Design/src/utils/history.ts",
+    "Text Wizard Desgin Versions/Text Wizard Design/src/utils",
+    "Text Wizard Desgin Versions/Text Wizard Design/src/guidelines/Guidelines.md",
+    "Text Wizard Desgin Versions/Text Wizard Design/README.md",
+    "Text Wizard Desgin Versions/Text Wizard Design 1st/src/guidelines/Guidelines.md",
+    "TechSpec/Final_TechSpec_TextProcessor_PromptEditor.md",
+    "Version Control/Text Wizard.md",
+    "Text Wizard Desgin Versions/Text Wizard Design 1st/README.md",
+    "Docs/GIT-NOTES — Workspace репозиторий.md",
+    "TechSpec/TechSpec_TextProcessor_PromptEditor.md",
+    "Без названия.md",
+    "TechSpec/TechSpec_TextProcessor_PromptEditor (1).md",
+    "TechSpec/Claude.md",
+    "ZIP/TechSpec_TextProcessor_PromptEditor.md",
+    "ZIP/TechSpec_TextProcessor_PromptEditor (1).md",
+    "ZIP/TechSpec_TextProcessor_PromptEditor (2).md",
+    "ZIP/Final_TechSpec_TextProcessor_PromptEditor.md",
+    "ZIP/Снимок экрана_24-8-2025_162225_www.figma.com.jpeg",
+    "Text Wizard Desgin Versions/Text Wizard Design 1st/src/Attributions.md",
     "Results.md",
     "OpenAI.svg",
-    "TechSpec/Claude.md",
-    "TechSpec/Final_TechSpec_TextProcessor_PromptEditor.md",
-    "Добро пожаловать.md",
-    "TechSpec/TechSpec_TextProcessor_PromptEditor (1).md",
-    "TechSpec/TechSpec_TextProcessor_PromptEditor.md",
-    "TechSpec",
-    "Без названия"
+    "Добро пожаловать.md"
   ]
 }
